@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>https://www.marca.com/futbol.html/ - Últimas noticias</title>
+	<link href="https://galisteoo00.github.io/galisteorss/"/>
+	<id>https://galisteoo00.github.io/galisteorss/</id>
+	<updated>2023-02-08T13:00:00Z</updated>
+	<author>
+		<name>Galisteo@a.com</name>
+	</author>
+	<category term="Futbol/"/>
+	<generator>GitHub</generator>
+	<language>es-es</language>
+	<entry>
+		<title>Iñigo martinez</title>
+		<link href="https://www.marca.com/futbol/athletic/2023/02/08/63e3735046163fbe5c8b4583.html"/>
+		<id>https://www.marca.com/futbol/athletic/2023/02/08/63e3735046163fbe5c8b4583.html</id>
+		<summary>Iñigo martinez noticia</summary>
+		<author>
+			<name>Galisteo@a.com</name>
+		</author>
+		<published>2023-02-08T13:00:00Z</published>
+		<source url="https://www.marca.com/futbol/athletic/2023/02/08/63e3735046163fbe5c8b4583.html">Iñigo</source>
+	</entry>
+	<entry>
+		<title>Carlos Perez</title>
+		<link href="https://www.marca.com/futbol/celta/2023/02/08/63e2b16546163f56be8b45b7.html"/>
+		<id>https://www.marca.com/futbol/celta/2023/02/08/63e2b16546163f56be8b45b7.html</id>
+		<summary>Carlos Perez</summary>
+		<author>
+			<name>Galisteo@a.com</name>
+		</author>
+		<published>2023-02-08T13:00:00Z</published>
+		<source url="https://www.marca.com/futbol/celta/2023/02/08/63e2b16546163f56be8b45b7.html">Carlos Perez</source>
+	</entry>
+	<entry>
+		<title>Oyarzabal</title>
+		<link href="hhttps://www.marca.com/futbol/real-sociedad/2023/02/08/63e29aac22601d42668b4577.html"/>
+		<id>hhttps://www.marca.com/futbol/real-sociedad/2023/02/08/63e29aac22601d42668b4577.html</id>
+		<summary>Oyarzabal</summary>
+		<author>
+			<name>Galisteo@a.com</name>
+		</author>
+		<published>2023-02-08T13:00:00Z</published>
+		<source url="https://www.marca.com/futbol/real-sociedad/2023/02/08/63e29aac22601d42668b4577.html">oyarzabal</source>
+    <entry
